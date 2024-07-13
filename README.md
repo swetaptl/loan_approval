@@ -1,0 +1,3 @@
+In this machine learning project, the goal is to develop an accurate model that can predict whether a loan applicant will be approved for a loan based on their financial records and other relevant information. The lending institution aims to streamline their loan approval process, reduce the risk of default, and improve overall efficiency.
+
+By developing a robust machine learning model, the lending institution can make more informed and efficient loan decisions, leading to increased customer satisfaction and reduced operational costs. This project has the potential to revolutionize the way loan approvals are processed, benefiting both the institution and its customers.)
